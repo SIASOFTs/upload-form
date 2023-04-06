@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: red;
+  background-color: #fff;
 }
 body .container {
   margin: auto;
